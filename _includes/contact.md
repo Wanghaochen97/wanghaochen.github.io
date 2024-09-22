@@ -2,9 +2,9 @@
 
 <h2 style="margin: 30px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/10+Bd+Thomas+Gobert,+91120+Palaiseau/@48.7124352,2.194429,17z/data=!3m1!4b1!4m6!3m5!1s0x47e678bdc3c9eee5:0xb68bc1fb5222c860!8m2!3d48.7124317!4d2.1970093!16s%2Fg%2F11h2c29d0k?entry=ttu">10 Bd Thomas Gobert, 91120 Palaiseau</a>
+<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/e7atVAPpLyd4rovV9">30 Shuangqing Rd, Lanqiying Haidian District, Beijing, China, 100190</a>
 <br />
-<strong>Office Location:</strong> \
+<strong>Office Location:</strong> 30 Shuangqing Rd, Lanqiying Haidian District, Beijing, China, 100190\
 <br />
 <strong>Email:</strong> <email>wanghaochen0520 @ gmail.com</email>
 <br />
