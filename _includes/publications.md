@@ -23,7 +23,7 @@ The code is written in Markdown and is intended to be used in a website or web p
 
 <div class="publications">
 <ol class="bibliography">
-{% assign gsDataBaseUrl = 'https://scholar.google.com/citations?user=Kcuavl0AAAAJ&hl=en' %}
+{% assign gsDataBaseUrl = 'https://eprint.iacr.org/2024/974' %}
 {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
 {% for link in site.data.publications.main %}
 
