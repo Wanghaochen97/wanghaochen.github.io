@@ -27,10 +27,6 @@ I am currently a Mathematics and Cryptography Ph.D. candidate at [Institute for 
 
 {% include_relative _includes/news.md %}
 
-{% include_relative _includes/projects.md %}
-
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/conference.md %}
 
 {% include_relative _includes/contact.md %}
