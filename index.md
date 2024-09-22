@@ -18,9 +18,8 @@ I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.
 - **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
 
 ## Education
-- **Ph.D. in Physics**, 2021 - 2024, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
-- **M.Sc. in Materials Science**, 2017 - 2021, [RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1), Germany
-- **B.Sc. in Materials Science**, 2009 - 2013, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
+- **Ph.D. in Mathematics and Cryptography**, September 2020 - Present, [Institute for Advanced Study](https://www.ias.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China
+- **B.Sc. in Mathematics**, September 2016 - June 2020, [School of Mathematics](https://www.math.sdu.edu.cn/English.htm), [Shandong University](https://en.sdu.edu.cn/), Jinan, Shandong Province, China
 - **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
 - **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
   - [Business English](https://blog.songchen.science/documents/coursera/6B4CVLYK9ASD.pdf)
