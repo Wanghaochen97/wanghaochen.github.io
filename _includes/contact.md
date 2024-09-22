@@ -4,7 +4,7 @@
 
 <p><strong>Address:</strong> <a href="https://maps.app.goo.gl/e7atVAPpLyd4rovV9">30 Shuangqing Rd, Lanqiying Haidian District, Beijing, China, 100190</a>
 <br />
-<strong>Office Location:</strong> 30 Shuangqing Rd, Lanqiying Haidian District, Beijing, China, 100190\
+<strong>Office Location:</strong> 30 Shuangqing Rd, Lanqiying Haidian District, Beijing, China, 100190
 <br />
 <strong>Email:</strong> <email>wanghaochen0520 @ gmail.com</email>
 <br />
