@@ -2,8 +2,8 @@ main:
 
   - title: Towards Optimal Parallel Broadcast under a Dishonest Majority
     authors: Daniel Collins, Sisi Duan, Julian Loss, Charalampos Papamanthou, Giorgos Tsimos, <strong>Haochen Wang</strong>
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
+    conference_short: 
+    conference: 
     pdf: 
     page: https://eprint.iacr.org/2024/974
     bibtex: 
