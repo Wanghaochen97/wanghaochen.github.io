@@ -7,7 +7,6 @@ main:
     pdf: 
     page: https://eprint.iacr.org/2024/974
     bibtex: 
-    image:
     citation: 
     notes: Preprint
 
@@ -18,7 +17,6 @@ main:
     pdf: 
     page: https://eprint.iacr.org/2024/664
     bibtex: 
-    image:
     citation: 
     notes: Preprint
 
