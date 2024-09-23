@@ -50,7 +50,7 @@ The code is written in Markdown and is intended to be used in a website or web p
       {% endif %}
       
       {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Links</a>
       {% endif %}
       
       {% if link.bibtex %} 
