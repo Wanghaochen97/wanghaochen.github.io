@@ -40,29 +40,36 @@ The code is written in Markdown and is intended to be used in a website or web p
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
+      
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
+      
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
+      
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
+      
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
+      
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
+      
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
+      
       {% if link.citation %} 
       <strong> <a style="color:#e74d3c; font-weight:600"> • <i class="total_citation_mtl" data-citation="{{ link.citation }}"></i> <i style="color:#e74d3c; font-weight:600"> Citations </i></a></strong>
       <script>
         $(document).ready(function () {
-            var gsDataBaseUrl = 'https://scholar.google.com/citations?user=Kcuavl0AAAAJ&hl=en';
+            var gsDataBaseUrl = 'https://raw.githubusercontent.com/song-chen1/song-chen1.github.io/';
             $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
                 var citationEles = document.getElementsByClassName('total_citation_mtl');
                 Array.prototype.forEach.call(citationEles, function(element) {
