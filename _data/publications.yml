@@ -11,7 +11,7 @@ main:
     citation: 
     notes: Preprint
 
-    title: Pando: Extremely Scalable BFT Based on Committee Sampling
+  - title: Pando: Extremely Scalable BFT Based on Committee Sampling
     authors: Xin Wang, <strong>Haochen Wang</strong>, Haibin Zhang, Sisi Duan
     conference_short: 
     conference: 
